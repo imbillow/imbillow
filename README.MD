@@ -13,3 +13,4 @@ stats 太傻了，被我删掉了。
 <!-- ![billow's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imbillow) -->
 
 - [codewars](https://www.codewars.com/users/billow)
+- [Twitter](https://twitter.com/home)
