@@ -1,6 +1,6 @@
 # There is billow
 
-Chaotic evil, want something interesting to happen. Like divination, programming is hard. Forget it, I'll just eat and wait for death anyway.
+Chaotic evil, want something interesting to happen. Like divination, programing is hard. Forget it, I'll just eat and wait for death anyway.
 
 混乱邪恶。喜欢占卜，编程好难。 算了，我还是混吃等死。
 
