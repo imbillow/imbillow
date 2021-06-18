@@ -8,9 +8,3 @@ Chaotic evil, want something interesting to happen. Like divination, programming
 
 - [Codewars](https://www.codewars.com/users/billow) ![badges](https://www.codewars.com/users/billow/badges/micro)
 - [Twitter](https://twitter.com/Hoshi_no_aya)
-
----
-
-![Langs Last 30 Days](https://wakatime.com/share/@imbillow/fa38bbdb-8425-49a9-b5e9-e14c9973511b.svg)
-
-![Langs over All Time](https://wakatime.com/share/@imbillow/ea48d46c-6edc-4155-b389-d8e8bd50703b.svg)
