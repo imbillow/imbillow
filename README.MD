@@ -1,6 +1,6 @@
 # There is billow
 
-**Arch Linux User \& Developer** | Currently studying **Rust**, also C/C++, Python | **CS Graduate**
+**Arch Linux User \& Developer** | Currently studying **Rust** ｜ **CS Graduate**
 
 **Interests:** Computer internals & Artificial Intelligence
 
