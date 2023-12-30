@@ -1,6 +1,6 @@
 # There is billow
 
-**Arch Linux User** | Currently studying **Rust** ｜ **CS Graduate**
+**Arch Linux | NixOS User** | Currently studying **Rust** ｜ **CS Graduate**
 
 **Interests:** Computer internals & Artificial Intelligence
 
