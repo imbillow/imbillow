@@ -1,6 +1,6 @@
 # There is billow
 
-**ex-Arch|NixOS** current Gentoo|MacOS User ｜ | Currently studying **Rust** ｜ **CS Graduate**
+ex-Arch|NixOS current Gentoo|MacOS User ｜ | Currently studying **Rust** ｜ **CS Graduate**
 
 **Interests:** Computer internals & Artificial Intelligence
 
