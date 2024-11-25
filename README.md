@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on [ctf](https://ctf-wiki.org/)
 - 🤔 I’m looking for help with [tradingview](https://www.tradingview.com/u/HoshinoAya/)
-- 💬 Ask me about ...
+- 💬 Ask me about programming
 - 📫 How to reach me: [x|twitter](https://x.com/starlight_v3)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she|he|they|
+- 🍵 buy me a coffee: [afdian](https://afdian.com/a/imbillow) [ETH](0x03e5Ac7Ae9A0A3B0686b8af756607D96Ae799254) [SOL](rb1vbpjLtJCZwwZdDFhTziBM4aoxBRAFiFAGUA32unq)
 
