@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+*我发现在 twitter 和 steam 都有人冒充我， 小心*
+
 - 🔭 I’m currently working on [rizin](https://github.com/rizinorg/rizin) [capstone](https://github.com/capstone-engine/capstone)
 - 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on [ctf](https://ctf-wiki.org/)
