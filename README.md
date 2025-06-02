@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on [ctf](https://ctf-wiki.org/)
 - 🤔 I’m looking for help with [tradingview](https://www.tradingview.com/u/HoshinoAya/)
+- 🎮 [steam](https://steamcommunity.com/id/hoshinoaya/)
 - 💬 Ask me about programming
 - 📫 How to reach me: [x|twitter](https://x.com/serend1p1t9) [codewars](https://www.codewars.com/users/billow)
 - 😄 Pronouns: she|he|they|
